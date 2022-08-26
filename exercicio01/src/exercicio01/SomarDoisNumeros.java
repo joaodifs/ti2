@@ -1,7 +1,7 @@
 package exercicio01;
 import java.util.*;
 
-class SomartresNumeros {
+class SomarDoisNumeros {
 	
 	public static Scanner sc = new Scanner(System.in);
 	
